@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suralmk&label=Profile%20views&color=0e75b6&style=flat" alt="suralmk" /> </p>
 
-
-- 🔭 I’m currently working on [Woozie Hoodies](https://github.com/Suralmk/Woozie-Hoodies)
-
-- 👨‍💻 All of my projects are available at [https://surafelmelaku.pythonanywhere.com/](https://surafelmelaku.pythonanywhere.com/)
-
-- 📝 I regularly write articles on [https://surafelmelaku.pythonanywhere.com/blogs/](https://surafelmelaku.pythonanywhere.com/blogs/)
-
-- 📄 Know about my experiences [https://surafelmelaku.pythonanywhere.com/static/src/files/Surafel-Melaku-cv.pdf](https://surafelmelaku.pythonanywhere.com/static/src/files/Surafel-Melaku-cv.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
