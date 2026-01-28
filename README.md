@@ -6,9 +6,9 @@
 <h2 align="left">Technical Skills:</h2>
 <p> Web Development, Mobile App Development, API Development, Python GUI Development </p>
 <h3 align="left">Tools and Languages</h3>
-<p>JS, Python, Linux, Github, Pypi, Conda, Azure, Heroku, Render, Git, Docker, NGINX, PostgreSQL, Celery</p>
+<p>JS, Python, JS/TS, Linux, Github, Pypi, Conda, Azure, Heroku, Render, Git, Docker, NGINX, PostgreSQL, Celery</p>
 <h3 align="left">Frameworks</h3>
-<p>React.js, React Native, Django, Django Rest Framework, Fast API,TailwindCSS </p>
+<p>React.js, Next.js, React Native, Django, Django Rest Framework, Fast API, TailwindCSS </p>
 <h3 align="left">Other Skills</h3>
 <p>Problem Solving, Team Programming, Unit testing, Software Deployment </p>
 
