@@ -11,27 +11,22 @@
 
 Web Development • Mobile Development • API Development • Python GUI Development • AI Integration • Agent Systems • Backend Architecture
 
----
 
 ##  AI & Modern Systems
 AI/LLM Integration • AI Agents • Prompt Engineering • Automation Systems • RAG Pipelines
 
----
 
 ##  Tools & Languages
 JS / TS • Python • Go • Linux • Git • GitHub • Docker • NGINX • PostgreSQL • Celery • Azure • Heroku • Render • Supabase
 
----
 
 ##  Frameworks
 React.js • Next.js • React Native • Django • Django REST Framework • FastAPI • TailwindCSS
 
----
 
 ##  Other Skills
 Problem Solving • Team Collaboration • Unit Testing • Deployment • System Design
 
----
 
 ##  Tech Stack Icons
 
