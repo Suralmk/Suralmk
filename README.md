@@ -88,8 +88,5 @@ Problem Solving • Team Collaboration • Unit Testing • Deployment • Syste
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 </a>
 
-<a href="https://qdrant.tech/">
-  <img src="https://avatars.githubusercontent.com/u/73595258?s=200&v=4" width="40"/>
-</a>
 
 </div>
