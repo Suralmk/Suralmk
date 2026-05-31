@@ -80,4 +80,16 @@ Problem Solving • Team Collaboration • Unit Testing • Deployment • Syste
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40"/>
   </a>
 
+  <a href="https://aws.amazon.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+</a>
+
+<a href="https://qdrant.tech/">
+  <img src="https://avatars.githubusercontent.com/u/73595258?s=200&v=4" width="40"/>
+</a>
+
 </div>
